@@ -1,6 +1,7 @@
 {
     "name": "dupot/static-management-skeleton",
     "type": "project",
+    "license": "LGPL-2.1",
     "autoload": {
         "psr-4": {
             "My\\": "src/"
