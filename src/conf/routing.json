@@ -1,0 +1,12 @@
+[
+    {
+        "pattern": "#/myOtherPage.html#",
+        "class": "My\\Infrastructure\\Pages\\OtherPage",
+        "method": "index"
+    },
+    {
+        "pattern": "#/#",
+        "class": "My\\Infrastructure\\Pages\\HomePage",
+        "method": "index"
+    }
+]

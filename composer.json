@@ -1,0 +1,20 @@
+{
+    "name": "dupot/static-management-skeleton",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "My\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Michael Bertocchi",
+            "email": "imikado@gmail.com",
+            "homepage": "https://www.dupot.org",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "dupot/static-management-framework": "1.*.*"
+    }
+}
